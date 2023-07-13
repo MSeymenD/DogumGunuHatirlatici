@@ -70,7 +70,6 @@ namespace DogumGunuHatirlatici
 
         private void label2_Click(object sender, EventArgs e)
         {
-            listBox4.Items.Add("qa");
         }
     }
 }
